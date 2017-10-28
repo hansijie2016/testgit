@@ -1,0 +1,22 @@
+{
+  "name": "helloworld",
+  "version": "0.0.0",
+  "description": "",
+  "main": "helloworld.js",
+  "scripts": {
+    "test": "node_modules/mocha/bin/mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hansijie2016/helloworld.git"
+  },
+  "author": "",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/hansijie2016/helloworld/issues"
+  },
+  "devDependencies": {
+    "mocha": "~2.0.0",
+    "zombie": "~2.0.0"
+  }
+}
